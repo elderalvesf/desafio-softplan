@@ -3,8 +3,8 @@
 
 » Pré-requisitos para rodar esse projeto: 
 
-Node.js: https://nodejs.org/en/download/
-Visual Studio Code: https://code.visualstudio.com/download
+1. Node.js: https://nodejs.org/en/download/
+2. Visual Studio Code: https://code.visualstudio.com/download
 
 » Passos para usar esse projeto:
 
