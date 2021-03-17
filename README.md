@@ -9,6 +9,6 @@
 » Passos para usar esse projeto:
 
 1. Baixe ou clone esse repositório
-2. Instale as dependências por meio do comando: npm install
-3. Rode os testes com o comando: npm run test
+2. Instale as dependências por meio do comando:<B> npm install</B>
+3. Rode os testes com o comando: <B>npm run test</B>
 
