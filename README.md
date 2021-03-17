@@ -1,5 +1,8 @@
 <h1> Desafio Técnico Softplan </h1>
 
+- O projeto a seguir foi criado utilizando o padrão de arquitetura de projetos de automação de testes <B>PAGE OBJECT</B>.
+- O report foi feito utilizando o framework <B>Mochawesome</B> e o mesmo é adicionado na pasta <B>reports</B> automaticamente após execução dos testes.
+
 
 » Pré-requisitos para rodar esse projeto: 
 
